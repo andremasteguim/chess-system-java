@@ -9,7 +9,14 @@ public class Program {
 		
 		ChessMatch chessMatch = new ChessMatch();
 		UI.printBoard(chessMatch.getPieces());		
-		System.out.println("Tetando git");
+
+		System.out.println("teste");
+		System.out.println("teste");
+		System.out.println("teste");
+		System.out.println("teste");
+		System.out.println("teste");
+		System.out.println("teste");
+
 	}
 
 }
